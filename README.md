@@ -72,7 +72,7 @@ high-density male calling song.
 
 ## How:
 
-> > 💻 R IBM SPSS Statistics 25
+> > 💻 IBM SPSS Statistics 25
 
 Analyses include:
 
